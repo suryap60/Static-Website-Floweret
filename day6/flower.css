@@ -1,0 +1,18 @@
+body{
+    background-image: linear-gradient(to bottom right,white,pink );
+}
+.flower{
+    align-items: center;
+    
+}
+.flower img{
+    border-radius: 10px;
+    margin: 10px;
+}
+.flower h1{
+    font-size: 60px;
+    text-transform: capitalize;
+    color: rgb(74, 10, 113  );
+    font-family:'Times New Roman', Times, serif;
+    
+}

@@ -1,0 +1,68 @@
+body{
+    background-color:rgb(245, 216, 221);
+    
+
+}
+.main{
+    display:flex ;
+    
+    margin-left: 300px;
+    border-color: black;
+    
+}
+.sub1{
+    margin-top: 10px;
+    
+}
+.button{
+    background-color: rgb(197, 12, 12);
+    text-decoration: none;
+    width: 200px;
+    height: 40px;
+    margin: 10px 40px 0px 20px;
+    border-radius: 30px;
+    color: white;
+    border: none;
+    
+
+}
+.sign{
+    /* margin-left:100px; */
+    margin-top: 10px;
+    
+}
+.sub2{
+   margin-top: 9px;
+   margin-left: 5px;
+   
+   
+}
+.sub2 img{
+    height: 560px;
+    
+    
+
+}
+.sub1 .box input {
+    border-radius: 20px;
+    height: 28px;
+    border: none;
+    width: 200px;
+    
+}
+.sub1 .box ::placeholder{
+    padding-left: 10px;
+}
+.sub1 .checkbox{
+    margin-top: 15px;
+}
+.sub1 textarea{
+    border-radius: 20px;
+    
+    border: none;
+    width: 200px;
+}
+.head{
+    margin-left: 500px;
+    color: green;
+}

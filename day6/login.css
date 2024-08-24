@@ -1,0 +1,37 @@
+.login{
+    margin-left: 600px;
+    margin-top: 150px;
+    
+    
+}
+body{
+    background-image: url('image/log.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.login .btn{
+    margin-top: 20px;
+    
+    
+}
+.login button{
+    width: 100px;
+    height: 30px;
+    margin-left: 60px;
+    border-radius: 20px;
+    border: none;
+    background-color: black;
+    
+
+}
+.login a{
+    text-decoration: none;
+    color: white;
+}
+.login input{
+    border-radius: 20px;
+    height: 25px;
+    border: none;
+    width: 200px;
+    
+}

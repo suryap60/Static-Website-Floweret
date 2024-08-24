@@ -1,0 +1,103 @@
+.main{
+    padding-left: 150px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+   
+}
+.main p{
+    padding: 30px 0px 0px  50px;
+    font-size: 27px;
+    font-family: sans-serif;
+    word-spacing: 10px;
+    text-align:left;
+}
+.about h1{
+    padding: 40px 0px 0px 150px;
+    font-size: 70px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:#ca0868  ;
+
+}
+p::after{
+    /* content: url(image/giphy.gif); */
+    size: 3px;
+    display: flex;
+}
+.c1{
+    margin: 80px 0px 0px 150px;
+}
+.c1 img{
+    height: 500px;
+    
+}
+.e2 img{
+    width: 200px;
+    padding-top: 20px;
+}
+.us {
+    display: flex;
+    
+}
+.c2{
+    margin-left: 90px;
+    padding-top: 30px;
+    background-color: transparent;
+    border-color: gray;
+    border-width: 2px;
+}
+.c2 h1{
+    font-size: 70px;
+    color: rgb(14, 13, 13);
+    /* font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; */
+}
+.e1{
+   padding-left: 90px; 
+  
+   
+   
+}
+.e1 h2{
+    font-size:40px ;
+    color: rgba(216, 59, 64,0.7);
+}
+/* .e1 a{
+    
+} */
+.e1 a:link{
+    color: rgb(88, 8, 51);
+    text-decoration: none;
+    
+}
+.e1 a:active{
+    color: chartreuse;
+}
+.e1 a:hover{
+    color:gold
+}
+.e1 a:selected{
+    color: rgb(19, 98, 201);
+    text-decoration: underline;
+
+}
+.e1 a:focus{
+    font-size: 20px;
+}
+.e1 a:visited{
+    color: rgb(27, 236, 244);
+}
+e1 div:hover h1{
+    background-color:rgb(246, 246, 168);
+}
+
+.details{
+    display: flex;
+}
+.e2{
+    padding-left: 90px; 
+    padding-top: 0px;
+}
+.e2 h2{
+    font-size:40px ;
+    color: rgba(216, 59, 64,0.7);
+}
